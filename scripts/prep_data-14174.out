@@ -1,0 +1,31 @@
+no change     /WAVE/apps/el8/packages/Anaconda3/2023.09-0/app/condabin/conda
+no change     /WAVE/apps/el8/packages/Anaconda3/2023.09-0/app/bin/conda
+no change     /WAVE/apps/el8/packages/Anaconda3/2023.09-0/app/bin/conda-env
+no change     /WAVE/apps/el8/packages/Anaconda3/2023.09-0/app/bin/activate
+no change     /WAVE/apps/el8/packages/Anaconda3/2023.09-0/app/bin/deactivate
+no change     /WAVE/apps/el8/packages/Anaconda3/2023.09-0/app/etc/profile.d/conda.sh
+no change     /WAVE/apps/el8/packages/Anaconda3/2023.09-0/app/etc/fish/conf.d/conda.fish
+no change     /WAVE/apps/el8/packages/Anaconda3/2023.09-0/app/shell/condabin/Conda.psm1
+no change     /WAVE/apps/el8/packages/Anaconda3/2023.09-0/app/shell/condabin/conda-hook.ps1
+no change     /WAVE/apps/el8/packages/Anaconda3/2023.09-0/app/lib/python3.11/site-packages/xontrib/conda.xsh
+no change     /WAVE/apps/el8/packages/Anaconda3/2023.09-0/app/etc/profile.d/conda.csh
+no change     /WAVE/users/unix/sli13/.bashrc
+No action taken.
+2024-01-27 18:35:36.692 | INFO     | __main__:extract_frames:19 - Extracting frames from /WAVE/workarea/users/sli13/AIC23_MTPC/data/aic23/train/S002/c008/video.mp4 to /WAVE/workarea/users/sli13/AIC23_MTPC/data/aic23/train/S002/c008/frames
+2024-01-27 18:43:46.031 | INFO     | __main__:prepare_coco_format:24 - Preparing coco format from ('S002', 'c008')
+2024-01-27 18:43:46.031 | INFO     | __main__:prepare_coco_format:55 - Preparing /WAVE/workarea/users/sli13/AIC23_MTPC/data/aic23/train/S002/c008/coco.json from /WAVE/workarea/users/sli13/AIC23_MTPC/data/aic23/train/S002/c008/label.txt
+2024-01-27 18:43:47.031 | INFO     | __main__:extract_frames:19 - Extracting frames from /WAVE/workarea/users/sli13/AIC23_MTPC/data/aic23/train/S002/c009/video.mp4 to /WAVE/workarea/users/sli13/AIC23_MTPC/data/aic23/train/S002/c009/frames
+2024-01-27 18:52:04.958 | INFO     | __main__:prepare_coco_format:24 - Preparing coco format from ('S002', 'c009')
+2024-01-27 18:52:04.958 | INFO     | __main__:prepare_coco_format:55 - Preparing /WAVE/workarea/users/sli13/AIC23_MTPC/data/aic23/train/S002/c009/coco.json from /WAVE/workarea/users/sli13/AIC23_MTPC/data/aic23/train/S002/c009/label.txt
+2024-01-27 18:52:05.405 | INFO     | __main__:extract_frames:19 - Extracting frames from /WAVE/workarea/users/sli13/AIC23_MTPC/data/aic23/train/S002/c010/video.mp4 to /WAVE/workarea/users/sli13/AIC23_MTPC/data/aic23/train/S002/c010/frames
+2024-01-27 19:00:10.393 | INFO     | __main__:prepare_coco_format:24 - Preparing coco format from ('S002', 'c010')
+2024-01-27 19:00:10.394 | INFO     | __main__:prepare_coco_format:55 - Preparing /WAVE/workarea/users/sli13/AIC23_MTPC/data/aic23/train/S002/c010/coco.json from /WAVE/workarea/users/sli13/AIC23_MTPC/data/aic23/train/S002/c010/label.txt
+2024-01-27 19:00:12.119 | INFO     | __main__:extract_frames:19 - Extracting frames from /WAVE/workarea/users/sli13/AIC23_MTPC/data/aic23/train/S002/c011/video.mp4 to /WAVE/workarea/users/sli13/AIC23_MTPC/data/aic23/train/S002/c011/frames
+2024-01-27 19:08:17.671 | INFO     | __main__:prepare_coco_format:24 - Preparing coco format from ('S002', 'c011')
+2024-01-27 19:08:17.672 | INFO     | __main__:prepare_coco_format:55 - Preparing /WAVE/workarea/users/sli13/AIC23_MTPC/data/aic23/train/S002/c011/coco.json from /WAVE/workarea/users/sli13/AIC23_MTPC/data/aic23/train/S002/c011/label.txt
+2024-01-27 19:08:18.435 | INFO     | __main__:extract_frames:19 - Extracting frames from /WAVE/workarea/users/sli13/AIC23_MTPC/data/aic23/train/S002/c012/video.mp4 to /WAVE/workarea/users/sli13/AIC23_MTPC/data/aic23/train/S002/c012/frames
+2024-01-27 19:16:22.737 | INFO     | __main__:prepare_coco_format:24 - Preparing coco format from ('S002', 'c012')
+2024-01-27 19:16:22.738 | INFO     | __main__:prepare_coco_format:55 - Preparing /WAVE/workarea/users/sli13/AIC23_MTPC/data/aic23/train/S002/c012/coco.json from /WAVE/workarea/users/sli13/AIC23_MTPC/data/aic23/train/S002/c012/label.txt
+2024-01-27 19:16:23.651 | INFO     | __main__:extract_frames:19 - Extracting frames from /WAVE/workarea/users/sli13/AIC23_MTPC/data/aic23/train/S002/c013/video.mp4 to /WAVE/workarea/users/sli13/AIC23_MTPC/data/aic23/train/S002/c013/frames
+2024-01-27 19:24:33.215 | INFO     | __main__:prepare_coco_format:24 - Preparing coco format from ('S002', 'c013')
+2024-01-27 19:24:33.215 | INFO     | __main__:prepare_coco_format:55 - Preparing /WAVE/workarea/users/sli13/AIC23_MTPC/data/aic23/train/S002/c013/coco.json from /WAVE/workarea/users/sli13/AIC23_MTPC/data/aic23/train/S002/c013/label.txt
